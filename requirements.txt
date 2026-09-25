@@ -1,0 +1,33 @@
+# Data Processing
+pandas
+numpy
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# API & Web
+fastapi
+uvicorn
+pydantic
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Utilities
+python-dotenv
+requests
+
+# Jupyter Notebook
+jupyter
+notebook
+ipython
+
